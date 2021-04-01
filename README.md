@@ -1,2 +1,2 @@
-## CV-Website
-#CV Website with custom background colour functionality
+#CV-Website
+CV Website with custom background colour functionality
