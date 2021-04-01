@@ -1,2 +1,2 @@
-# CV-Website
-MY future CV Website, in the future i will ad few functionality
+## CV-Website
+#CV Website with custom background colour functionality
